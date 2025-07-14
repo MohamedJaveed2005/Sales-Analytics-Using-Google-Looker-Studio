@@ -3,6 +3,10 @@ Advanced Sales Analytics with Google Looker Studio
 Click on the below link to view the dashboard:
 https://lookerstudio.google.com/s/oDICXuC7h44
 
+Task 1 - https://lookerstudio.google.com/reporting/e3113593-b7c0-4ee0-acb9-6b1c755e7341
+Task 2 - https://lookerstudio.google.com/reporting/72673b6c-00a8-4821-b60f-339427282636 
+
+
 ### Project Description: 
 This project involves analyzing sales data from a retail company to derive actionable insights and create impactful visualizations using SQL, Python, and Google Looker Studio. The dataset comprises multiple tables (customer_detail, order_detail, sku_detail, and payment_detail) representing customers, orders, products, and payments. The objectives of this project include: 
 #### 1. Deriving Key Insights: 
